@@ -12,7 +12,7 @@ This is a simple Todo List application built using React. It allows users to add
 - Filter tasks: Users can use the dropdown menu to filter tasks based on their completion status.
 - Task count: The total number of tasks and the number of completed tasks are displayed.
 
-  ## Dependencies
+## Dependencies
   
 The following dependencies are used in this project:
 
