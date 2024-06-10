@@ -16,11 +16,22 @@ This is a simple Todo List application built using React. It allows users to add
   
 The following dependencies are used in this project:
 
-- react: ^16.0.0
-- react-dom: ^16.0.0
-- react-toastify: ^8.0.0
-- You can find the complete list of dependencies with their versions in the package.json file.
+- react
+- react-dom
+- react-toastify
+
+You can find the complete list of dependencies with their versions in the package.json file.
 
 ## API
 
 The application uses the JSONPlaceholder API to fetch and update tasks. The API endpoint used is: https://jsonplaceholder.typicode.com/todos
+
+## Installation & Run:
+
+To run this project on your system follow the following steps:
+
+- Get the code on your system.
+- Open Terminal on your pc and go to the root folder of project.
+- Run the command 'npm install' in terminal to install all the dependencies required for the project.
+- After complete installation, run the command 'npm start' in your terminal.
+- To see the output, serach for http://localhost:3000/ in your web browser.
